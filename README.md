@@ -14,7 +14,7 @@ I created venv....I am providing you requirements.txt
 `python3 -m venv venv` &&
 `source venv/bin/activate` &&
 `pip install flask python-dotenv Flask-Cors` &&
-`flask run —port 8000` (can have any port)
+`flask run --port 8000` (can have any port)
 
 <center>OR</center>
 

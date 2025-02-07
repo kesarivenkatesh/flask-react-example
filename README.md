@@ -43,7 +43,7 @@ I created venv....I am providing you requirements.txt
 
     Format: KEY=VALUE
 
-    As secrets are managed in this file, for safety I am renaming this to .flaskenv.example(<font color="yellow">pls rename it back to .flaskenv while running backend</font>)
+    As secrets are managed in this file, for safety I am renaming this to .flaskenv.example(**pls rename it back to .flaskenv while running backend**)
 
 ## Reference
 

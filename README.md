@@ -21,6 +21,7 @@ I created venv....I am providing you requirements.txt
 - `pip install -r requirements.txt` and `flask run --port 8000`
 
 ### Frontend
+- `npm install`
 - `npm start`
 
 ## Some other things
